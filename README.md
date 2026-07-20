@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Tosho 👋
 
-<!--
-**tosek4/tosek4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 3+ years of experience building production web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend
+- React
+- Next.js
+- TypeScript
+- React Query
+- MUI
+- Ant Design
+
+Backend
+- Node.js
+- LoopBack 4
+- Strapi
+
+Database
+- PostgreSQL
+- Kysely
+
+Currently building:
+🚀 MemberStack
+
+Currently learning:
+• System Design
+• Docker
+• AWS
